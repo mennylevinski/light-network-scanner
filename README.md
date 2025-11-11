@@ -1,6 +1,6 @@
 # 🔍 Light Network Scanner
 
-A lightweight, open-source Python tool for discovering devices on your local private network.
+A lightweight, open-source Python tool for discovering devices on your local IPv4 network.
 Built for **ethical diagnostics**, **security awareness**, and **administrative auditing**.
 
 ---
