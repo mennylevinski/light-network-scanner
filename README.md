@@ -1,11 +1,11 @@
-# 🔍 Light Network Scanner
+## 🖧 Light Network Scanner
 
 A lightweight, open-source Python tool for discovering devices on your local IPv4 network.
-Built for **ethical diagnostics**, **security awareness**, and **administrative auditing**.
+Built for ethical diagnostics, security awareness and administrative auditing.
 
 ---
 
-## ⚖️ Legal Use
+## ✔️ Legal Use
 
 This tool is intended solely for lawful and authorized use.
 You must obtain explicit permission from the network owner before scanning, auditing, or testing any systems.
